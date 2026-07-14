@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059200388612",
+    "project_id": "food-frenzy-56bbf",
+    "storage_bucket": "food-frenzy-56bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059200388612:android:1dc3203c51f9bece112f51",
+        "android_client_info": {
+          "package_name": "com.example.food_frenzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059200388612-g3259128f52opgaonca7ue56tvmq7ho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWgDG2Egiuy6u1fFYxUp_dIswZU2GvAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059200388612-g3259128f52opgaonca7ue56tvmq7ho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
