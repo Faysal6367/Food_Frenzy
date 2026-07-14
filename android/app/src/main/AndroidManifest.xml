@@ -34,7 +34,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
-
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.CAMERA" />
