@@ -8,7 +8,7 @@ import 'package:food_frenzy/services/cart_data.dart';
 import 'package:food_frenzy/services/food_order.dart';
 import 'package:food_frenzy/widget/custom_text.dart';
 import 'package:get/get.dart';
-
+// import 'package:shared_preferences/shared_preferences.dart';
 bool order = false;
 class Cart extends StatefulWidget {
   const Cart({super.key});
